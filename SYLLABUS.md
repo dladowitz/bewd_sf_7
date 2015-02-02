@@ -5,12 +5,12 @@ BACK-END WEB DEVELOPMENT
 
 
 ###Syllabus
-Lesson Topics WILL change as the course progresses. 
+Lesson Topics WILL change as the course progresses.
 
 | Lesson  | Category| Topic| Date|
 | ------------- |:--------------------------------------------------|:-------------------------------|:-------------------|
-| 0 | Setup |Install Fest & Class Intro | Mon. 11/7/14| 
-| 1 | Setup | Development Work Flow | Wed. 11/19/14| 
+| 0 | Setup |Install Fest & Class Intro | Mon. 11/7/14|
+| 1 | Setup | Development Work Flow | Wed. 11/19/14|
 | 2 | Ruby | Data Types, Variables & Conditionals | Mon. 11/24/14|
 | 3 | Ruby | Loops & Collections | Mon. 12/1/14|
 | 4 | Ruby | Collections & Apis | Wed. 12/3/14|
@@ -27,7 +27,7 @@ Lesson Topics WILL change as the course progresses.
 | 13 | Essentials| Model: Active Record Associations & Validations Continued| Wed. 1/21/15|
 | 14 | Essentials| Final Project Kickoff: Schema Design & Basic UX Interaction |  Mon. 1/26/15|
 | 15 | Elective| Authentication with Devise & Project Lab Time | Wed. 1/28/15|
-| 16 | Elective| Project Lab Time | Devise Advanced | API Integration Elective | Mon. 2/2/15|
-| 17 | Elective| Project Lab Time | API Integration Elective| Wed. 2/4/15|
+| 16 | Elective| Project Lab Time | API Integration Elective - BetterIt! using NYTimes & Reddit | Mon. 2/2/15|
+| 17 | Elective| Project Lab Time | API Integration Elective - Image Uploading | Project Lab | Wed. 2/4/15|
 | 18 |Project Lab | Project Lab, Heroku Deployment & Elective Subject| Mon. 2/9/15|
 | 29| Project Lab | Final Project Presentations !!!!| Mon. 2/11/15|
