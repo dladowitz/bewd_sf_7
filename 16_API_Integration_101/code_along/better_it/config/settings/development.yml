@@ -1,0 +1,5 @@
+host:  localhost:3000
+
+nyt_api:
+  api_key: b73d46837d9090b4208c93b46b0e0a41:18:71145553
+  base_uri: http://api.nytimes.com
