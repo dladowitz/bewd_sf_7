@@ -27,7 +27,7 @@ Lesson Topics WILL change as the course progresses.
 | 13 | Essentials| Model: Active Record Associations & Validations Continued| Wed. 1/21/15|
 | 14 | Essentials| Final Project Kickoff: Schema Design & Basic UX Interaction |  Mon. 1/26/15|
 | 15 | Elective| Authentication with Devise & Project Lab Time | Wed. 1/28/15|
-| 16 | Elective| Project Lab Time | API Integration Elective - BetterIt! using NYTimes & Reddit | Mon. 2/2/15|
+| 16 | Elective| Project Lab Time | API Integration Elective - BetterIt! using NYTimes & Reddit | Project Lab| Mon. 2/2/15|
 | 17 | Elective| Project Lab Time | API Integration Elective - Image Uploading | Project Lab | Wed. 2/4/15|
-| 18 |Project Lab | Project Lab, Heroku Deployment & Elective Subject| Mon. 2/9/15|
+| 18 |Project Lab | Project Lab, Heroku Deployment | Mon. 2/9/15|
 | 29| Project Lab | Final Project Presentations !!!!| Mon. 2/11/15|
