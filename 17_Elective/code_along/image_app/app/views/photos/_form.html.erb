@@ -1,0 +1,14 @@
+<%= form_for(@photo) do |f| %>
+
+<%= f.label :story %>
+<%= f.text_area :story%>
+
+<br/>
+<%= f.label :artist %>
+<%= f.select :artist_id, list_artists %>
+
+<br/>
+<%= f.attachment_field :image %>
+
+<%= f.submit%>
+<% end %>

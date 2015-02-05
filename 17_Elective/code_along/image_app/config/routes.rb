@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-
+  resources :photos
   resources :artists
   root "static_pages#home"
 

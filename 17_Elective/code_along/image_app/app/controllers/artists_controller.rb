@@ -18,6 +18,7 @@ class ArtistsController < ApplicationController
 
   def show
     @artist = set_artist
+    @photos = @artist.photos
   end
 
   def edit

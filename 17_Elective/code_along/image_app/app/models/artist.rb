@@ -12,4 +12,5 @@
 
 class Artist < ActiveRecord::Base
   attachment :image
+  has_many :photos
 end
