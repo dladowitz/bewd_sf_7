@@ -1,0 +1,19 @@
+
+
+<%= simple_form_for(@photo ) do |f| %> 
+
+<%= f.input :image_url %> 
+<br/> 
+
+<%= f.input :description %> 
+<br/> 
+
+<%= f.association :user %> 
+
+
+<%= f.submit %> 
+
+<%end %> 
+
+
+

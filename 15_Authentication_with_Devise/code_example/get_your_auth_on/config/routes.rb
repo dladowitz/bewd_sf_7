@@ -1,5 +1,9 @@
 Rails.application.routes.draw do
 
+  resources :photos
+
+  get 'pictyo' => "static_pages#pictyo", as: "pictyo"
+  
   devise_for :users
 
   devise_scope :user do

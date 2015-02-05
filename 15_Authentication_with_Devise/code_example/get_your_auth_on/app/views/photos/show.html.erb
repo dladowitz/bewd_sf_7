@@ -1,0 +1,18 @@
+
+<h1><%= @user.email %> </h1>
+
+<%@user_photos.each do | photo | %>
+
+<ol> <%= image_tag(photo.image_url, size: '200x200') %> </ol>
+</hr>
+<ol> <% if user_signed_in? && popular_user? %>
+
+<p>  Like this picture </p>
+<% end %> 
+<p> Follow me </p> </ol>
+
+<%end %> 
+
+</hr>
+
+
