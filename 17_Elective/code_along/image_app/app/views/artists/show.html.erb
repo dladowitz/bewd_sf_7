@@ -1,15 +1,14 @@
 <div class="col-xs-12">
 
 <h1><%= @artist.name %> </h1>
-<p><%= image_tag attachment_url(@artist, :image, :fill, 300, 400) %>
+<p><%= image_tag attachment_url(@artist, :image),:class => 'img-responsive col-xs-4' %>
 </p>
 
-<p class="red"> <%= @artist.description %> </p>
 </hr> 
-<%= link_to "Add Snap Story", new_photo_path, :class => 'btn btn-lg btn-danger' %> 
+<%= link_to "Add A Photo", new_photo_path, :class => 'btn btn-lg btn-danger' %> 
 <hr/> 
 <div class="well">
-<h1>This is her Snap Story Feed </h1>
+<h1>My Photo Feed </h1>
 
 
 <% @photos.each do |photo| %>

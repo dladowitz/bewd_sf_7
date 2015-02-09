@@ -29,5 +29,5 @@ Lesson Topics WILL change as the course progresses.
 | 15 | Elective| Authentication with Devise & Project Lab Time | Wed. 1/28/15|
 | 16 | Elective| API Integration Elective - BetterIt! using NYTimes or Reddit + Project Lab| Mon. 2/2/15|
 | 17 | Elective| API Integration Elective - Image Uploading + Project Lab | Wed. 2/4/15|
-| 18 |Project Lab | Project Lab, Heroku Deployment | Mon. 2/9/15|
+| 18 |Project Lab | Project Lab - Final Touches | Mon. 2/9/15|
 | 29| Project Lab | Final Project Presentations !!!!| Mon. 2/11/15|
